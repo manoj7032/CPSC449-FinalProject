@@ -65,3 +65,10 @@ server {
 ##Usage
 Access the web application via http://localhost after starting the Flask app and ensure Nginx is configured to redirect as shown above.
 
+Team Members Details - 
+1. Manoj Gangavarapu - Developer (Nginx Load Balancer)
+2. Lakshmi Chandra Pothinindi - Developer (Caching strategies)
+3. Bharghav Thanniru	- Developer (Server related establishments)
+4. Jagadish Reddy Kandula - Developer (User Authentication)
+
+
